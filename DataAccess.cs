@@ -31,11 +31,6 @@ namespace DataAccess
 			set { errMessage = value; }
 		}
 
-		/// <summary>
-		/// Show connection string.
-		/// </summary>
-		/// <returns></returns>
-
 		public override string ToString()
 		{
 			return DATA_CONNECTION_STRING;
