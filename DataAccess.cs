@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 namespace DataAccess
 {
 	/// <summary>
-	/// Assembly implements business-agnostic ADO.NET database access methods to SQL database.
+	/// Class implements business-agnostic ADO.NET database access methods to SQL database.
 	/// </summary>
 	public class DataAccess : IDataAccess
 	{

@@ -7,7 +7,7 @@ namespace DataAccess
         IDataAccess dataAccess;
 
         /// <summary>
-        /// QueryProvider class implements methods which call data access methods
+        /// QueryProvider class implements business-specific methods which call data access methods
         /// on database and return data to Class/UI.
         /// </summary>
         public QueryProvider(IDataAccess dataAccess;)

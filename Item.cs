@@ -4,7 +4,7 @@ using System.Data;
 namespace DataAccess
 {
 	/// <summary>
-	/// Basic generic POCA object to illustrate data access methods.
+	/// Basic generic POCO to illustrate data access methods.
 	/// </summary>
 	public class Item
 	{

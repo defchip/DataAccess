@@ -3,6 +3,7 @@ using System.Data;
 
 namespace DataAccess
 {
+    //Defines DataAccess method signiatures.
     public interface IDataAccess
     {
         #region Method Signatures
