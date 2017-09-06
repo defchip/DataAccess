@@ -4,7 +4,6 @@ namespace DataAccess
 {
     public class QueryProvider
     {
-
         public QueryProvider()
         {
 
